@@ -9,7 +9,7 @@ import SwiftUI
 
 struct MyModel: View {
     var body: some View {
-        Text( "Hello, My Model.  What's going on?")
+        Text( "Hello, My Model.  What's cookin'?")
     }
 }
 
